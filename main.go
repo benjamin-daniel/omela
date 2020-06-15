@@ -1,5 +1,5 @@
 /*
-Serve is a very simple static file server in go
+Omela is a very simple static file server in go
 Usage:
 	-p="8100": port to serve on
 	-d=".":    the directory of static files to host
