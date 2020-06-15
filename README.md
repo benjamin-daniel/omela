@@ -16,4 +16,4 @@ Usage:
 
 Navigating to http://localhost:8100 will display the index.html or directory
 
-Heavily influenced by [https://gist.github.com/paulmach/7271283](https://gist.github.com/paulmach/7271283)
+Heavily influenced [coughs coughs copied basically] by [https://gist.github.com/paulmach/7271283](https://gist.github.com/paulmach/7271283)
